@@ -1,7 +1,16 @@
 # Strava Activity Data Retrieval
 This project is aimed at retrieving public activity data of a user on Strava without using the official API. It utilizes web scraping techniques with the help of the Selenium and BeautifulSoup libraries in Python.
 
-
+# Skills : 
+- Web Scraping : using requests and BeautifulSoup
+- Data Manipulation : converting, filtering, cleaning, loading and saving
+- Browser automation : using Selenium
+- Writing and Importing Custom Modules : with functions_strava.py
+- 
+# Librairy used : 
+- requests
+- Selenium
+- Beautifulsoup
 
 ## 1. Open and save file
 To save the data and load it later, the project provides functions for saving and loading lists and datasets.
