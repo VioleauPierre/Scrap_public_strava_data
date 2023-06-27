@@ -1,17 +1,6 @@
 # Strava Activity Data Retrieval
 This project is aimed at retrieving public activity data of a user on Strava without using the official API. It utilizes web scraping techniques with the help of the Selenium and BeautifulSoup libraries in Python.
 
-Table of Contents
-Open and save file
-Retrieve activity ID
-2.1 Login to Strava
-2.2 Loop on all weeks of the interval
-2.3 Dealing with Home Trainer (HT) activity and manually input activity
-Retrieve activity data
-3.1 Loop to retrieve activity data
-3.2 Loop to retrieve activity date and type
-Deleting the data when not moving and useless field
-
 
 
 ## 1. Open and save file
@@ -26,7 +15,7 @@ To access and retrieve all the public data from Strava, the first step is to log
 ### 2.2 Loop on all weeks of the interval
 This section describes how to loop through all the weeks within a specified interval in order to retrieve activities in this interval
 
-## Retrieve activity data
+## 3. Retrieve activity data
 
 ### 3.1 Dealing with Home Trainer (HT) activity and manually input activity
 This section covers the handling of Home Trainer (HT) activities and manually input activities. Add manually the activity ID and then run the cell to retrieve the data associated
