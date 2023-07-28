@@ -6,7 +6,7 @@ This project is aimed at retrieving public activity data of a user on Strava wit
 - Data Manipulation: Converting, filtering, cleaning, loading, and saving data.
 - Browser Automation: Utilizing Selenium for browser interactions.
 - Writing and Importing Custom Modules: Creating functions_strava.py for custom module imports.
-- 
+  
 # Librairies used : 
 - requests
 - Selenium
